@@ -1,1 +1,1 @@
-tributepage
+This is a tribute page for Mustafa Kemal Ataturk. 
